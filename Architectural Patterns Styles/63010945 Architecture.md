@@ -33,16 +33,16 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Audacity</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Matplotlib</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Kill Bill</a> &#xa0; | &#xa0;
+  <a href="#Audacity">Audacity</a> &#xa0; | &#xa0; 
+  <a href="#Matplotlib">Matplotlib</a> &#xa0; | &#xa0;
+  <a href="#Kill-Bill">Kill Bill</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/Samach21" target="_blank">Author</a>
 </p>
 
 <br>
 
-# <img src='https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png' height=30/> Audacity #
+# <img id='Audacity' src='https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png' height=30/> Audacity #
 
 **Audacity** เป็นตัวบันทึกและตัดต่อเสียงแบบ multi-track
 <br>
@@ -94,7 +94,7 @@ source:
 
 <br>
 
-# <img src='https://matplotlib.org/3.4.0/_static/logo2_compressed.svg' height=25/> Matplotlib #
+# <img id='Matplotlib' src='https://matplotlib.org/3.4.0/_static/logo2_compressed.svg' height=25/> Matplotlib #
 
 **Matplotlib** เป็น library ของภาษา Python ที่สร้างกราฟ หรือแผนภาพทางคณิตศาสตร์ เพื่อให้ง่ายต่อการวิเคราะห์ข้อมูล
 <br>
@@ -153,7 +153,7 @@ source:
 <br>
 
 <div align="center">
-	<img src='https://killbill.io/wp-content/uploads/2014/01/kbcoreservices1.png' height=360/>
+	<img id='Kill-Bill' src='https://killbill.io/wp-content/uploads/2014/01/kbcoreservices1.png' height=360/>
 	<h4 align="center">Architectural Patterns/Styles of Kill Bill</h4>
 </div>
 
